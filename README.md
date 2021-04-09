@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python, C and C++
 - 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me +8801992501958
+- 📖 Student at BRACU
 
 <!---
 Iftikhar-Shams-Niloy/Iftikhar-Shams-Niloy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
