@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Iftikhar-Shams-Niloy
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Python, C and C++, HTML, CSS
-- 💞️ I’m looking to collaborate on N/A
-- 📫 How to reach me +8801992501958
+- 🌱 I’m currently learning Python, C and C++, HTML, CSS, Java, Android Development
+- 💞️ I’m looking to collaborate on building Machine Learning models
+- 📫 How to reach me +8801992501958, +8801992711527
 - 📖 Student at BRACU
 
 <!---
