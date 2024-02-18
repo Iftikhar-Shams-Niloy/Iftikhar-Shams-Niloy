@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on building Machine Learning models
 - 📫 How to reach me +8801992501958, +8801992711527
 - 📖 Student at BRACU
+- 
+[![Niloy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iftikhar-Shams-Niloy)](https://github.com/Iftikhar-Shams-Niloy/github-readme-stats)
 
 <!---
 Iftikhar-Shams-Niloy/Iftikhar-Shams-Niloy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
