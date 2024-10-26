@@ -9,7 +9,7 @@
 
 <br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=iftikhar-shams-niloy&label=Profile%20views&color=orange&style=flat" alt="iftikhar-shams-niloy" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=iftikhar-shams-niloy&label=Profile%20views" alt="iftikhar-shams-niloy" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iftikhar-shams-niloy&row=2&column=3&margin-w=15&margin-h=15&theme=discord" alt="iftikhar-shams-niloy" /></a> </p>
 
 <h3 align="center">Proficient Languages and Tools</h3>
