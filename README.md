@@ -8,7 +8,7 @@
 <h3 align="center"> Student at BRACU </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iftikhar-shams-niloy&label=Profile%20views&color=0e75b6&style=flat" alt="iftikhar-shams-niloy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iftikhar-shams-niloy" alt="iftikhar-shams-niloy" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iftikhar-shams-niloy&row=2&column=3&theme=nord" alt="iftikhar-shams-niloy" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,9 +33,9 @@
                         <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
                           <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iftikhar-shams-niloy&show_icons=true&locale=en" alt="iftikhar-shams-niloy" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iftikhar-shams-niloy&show_icons=true&locale=en&theme=dracula" alt="iftikhar-shams-niloy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iftikhar-shams-niloy&" alt="iftikhar-shams-niloy" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iftikhar-shams-niloy&theme=dracula" alt="iftikhar-shams-niloy" /></p>
 
 
 <!---
