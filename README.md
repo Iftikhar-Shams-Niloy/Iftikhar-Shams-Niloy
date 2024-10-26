@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Iftikhar Shams Niloy</h1>
-<h3 align="center">I am passionate about web and app development</h3>
-<h3 align="center">I’m currently learning Python, C, C++, HTML, CSS, Java, Android Development</h3>
-<h3 align="center">I’m looking to collaborate on building Machine Learning and Deep Learning models</h3>
-<h3 align="center"> Reach me +8801992501958</h3>
-<h3 align="center"> Student at BRACU </h3>
+
+<h1 align="left">Hi 👋, I'm Iftikhar Shams Niloy</h1>
+<Section align="left" style="border: 1px solid black; padding: 10px; border-radius: 5px;">
+➡️ I am passionate about Web development and App development <br>
+➡️ I am currently learning Python, C, C++, HTML, CSS, Java, Android Development <br>
+➡️ I am looking to collaborate on building Machine Learning and Deep Learning models <br>
+➡️ Reach me at +8801992501958 <br>
+➡️ Student at BRACU <br>
 
 <br>
 
