@@ -5,7 +5,7 @@
 - 📫 How to reach me +8801992501958
 - 📖 Student at BRACU
 
-[![Niloy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iftikhar-Shams-Niloy&show_icons=true&theme=dracula)](https://github.com/Iftikhar-Shams-Niloy/github-readme-stats)
+
 
 
 <!---
