@@ -54,9 +54,3 @@
 <br>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iftikhar-shams-niloy&show_icons=true&locale=en&theme=dracula" alt="iftikhar-shams-niloy" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iftikhar-shams-niloy&theme=dracula" alt="iftikhar-shams-niloy" /></p>
-
-
-<!---
-Iftikhar-Shams-Niloy/Iftikhar-Shams-Niloy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
