@@ -53,4 +53,8 @@
 </section>
 <br>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iftikhar-shams-niloy&show_icons=true&locale=en&theme=dracula" alt="iftikhar-shams-niloy" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iftikhar-shams-niloy&theme=dracula" alt="iftikhar-shams-niloy" /></p>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Iftikhar-Shams-Niloy&theme=dracula&border_radius=5&card_width=600&card_height=200&type=png" alt="GitHub Streak" />
+  </a>
+</p>
