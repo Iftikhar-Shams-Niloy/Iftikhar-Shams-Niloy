@@ -4,15 +4,31 @@
 ➡️ I am passionate about Web development and App development <br>
 ➡️ I am currently learning Python, C, C++, HTML, CSS, Java, Android Development <br>
 ➡️ I am looking to collaborate on building Machine Learning and Deep Learning models <br>
-➡️ Reach me at +8801992501958 <br>
 ➡️ Student at BRACU <br>
+➡️ Reach me at:<br>
 
+<div align="left">
+  <a target="_blank" href="mailto:niloyshams21@gmail.com" >
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/>
+  </a>
+  <a target="_blank" href="https://www.linkedin.com/in/iftikhar-shams-niloy-92b902220/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a  target="_blank" href="https://www.facebook.com/NiloyTheLeo/">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+  <a target="_blank" href="https://www.instagram.com/_niloy_the_leo_/">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a target="_blank" href="https://x.com/niloyshams21">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+</div>
+  
+<section align="center">
 <br>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=iftikhar-shams-niloy&label=Profile%20views" alt="iftikhar-shams-niloy" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iftikhar-shams-niloy&row=1&column=4&margin-w=15&margin-h=15&theme=onedark" alt="iftikhar-shams-niloy" /></a> </p>
 <h3 align="center">Proficient Languages and Tools</h3>
-<section align="center">
   <p align="center" > 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"  alt="android" width="50" height="50"/>&ensp;
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> &ensp;
@@ -33,9 +49,10 @@
       <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/> </a> &ensp;
   </p>
 </section>
-
 <h3 align="center">My Status</h3>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iftikhar-shams-niloy&show_icons=true&locale=en&theme=dracula" alt="iftikhar-shams-niloy" /></p>
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Iftikhar-Shams-Niloy&theme=dracula&border_radius=5&card_width=600&card_height=200" alt="GitHub Streak" /></a>
-</p>
+<section align="center">
+  <img src="https://komarev.com/ghpvc/?username=iftikhar-shams-niloy&label=Profile%20views" height="30" width="250" alt="iftikhar-shams-niloy" /><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iftikhar-shams-niloy&show_icons=true&locale=en&card_width=515&theme=dracula"height="150"alt="iftikhar-shams-niloy"/><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Iftikhar-Shams-Niloy&locale=en&hide_title=false&layout=compact&card_width=435&langs_count=5&theme=dracula"  height="150" alt="languages graph"/><br>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Iftikhar-Shams-Niloy&card_width=450&card_height=150&theme=dracula" height="150" alt="GitHub Streak" /></a>
+</section>
