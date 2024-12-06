@@ -36,8 +36,8 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> &ensp;
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>  &ensp;
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/> &ensp;
-      <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/illustrator-40.svg" alt="illustrator" width="50" height="50"/> &ensp;
-      <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop-40.svg" alt="photoshop" width="50" height="50"/> &ensp;
+      <img src="https://github.com/Iftikhar-Shams-Niloy/logos-for-readme/blob/main/illustrator-40.svg" alt="illustrator" width="50" height="50"/> &ensp;
+      <img src="https://github.com/Iftikhar-Shams-Niloy/logos-for-readme/blob/main/photoshop-40.svg" alt="photoshop" width="50" height="50"/> &ensp;
   <br><br>
       <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="50" height="50"/>&ensp;
       <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="50" height="50"/> &ensp;
