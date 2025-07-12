@@ -4,7 +4,7 @@
 ➡️ I am passionate about Web development and App development <br>
 ➡️ I am currently learning Python, C, HTML, CSS, Java, Android Development, Machine Learning (ML) and Deep Learning (DL) <br>
 ➡️ I am looking to collaborate on building AI models <br>
-➡️ Student at BRACU <br>
+➡️ Graduated BSc in CS from BRAC University <br>
 ➡️ Reach me at:<br>
 <div align="left">
   <a target="_blank" href="mailto:niloyshams21@gmail.com" >
