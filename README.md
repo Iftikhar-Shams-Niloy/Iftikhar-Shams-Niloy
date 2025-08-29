@@ -2,8 +2,8 @@
 <h1 align="left">Hi 👋, I'm Iftikhar Shams Niloy</h1>
 <Section align="left" style="border: 1px solid black; padding: 10px; border-radius: 5px;">
 ➡️ I am passionate about Web development and App development <br>
-➡️ I am currently learning Python, C, HTML, CSS, Java, Android Development, Machine Learning (ML) and Deep Learning (DL) <br>
-➡️ I am looking to collaborate on building AI models <br>
+➡️ I am currently learning Flutter, Machine Learning (ML), Deep Learning (DL) and AI integration in Mobile Apps <br>
+➡️ I am looking to collaborate on building AI models and AI integrated applications <br>
 ➡️ Graduated BSc in CS from BRAC University <br>
 ➡️ Reach me at:<br>
 <div align="left">
