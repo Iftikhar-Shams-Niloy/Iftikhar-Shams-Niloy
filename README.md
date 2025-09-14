@@ -5,7 +5,7 @@
 ➡️ I am currently learning Flutter, Machine Learning (ML), Deep Learning (DL) and AI integration in Mobile Apps <br>
 ➡️ I am looking to collaborate on building AI models and AI integrated applications <br>
 ➡️ Graduated BSc in CS from BRAC University <br>
-➡️ Currently working at ScaleUp Ads Agency - Betopia Group <br>
+➡️ Currently working at ScaleUp Ads Agency - Betopia Group as Jr AI and Mobile App Developer<br>
 ➡️ Reach me at:<br>
 <div align="left">
   <a target="_blank" href="mailto:niloyshams21@gmail.com" >
