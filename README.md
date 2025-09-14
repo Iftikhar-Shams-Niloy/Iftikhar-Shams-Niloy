@@ -50,4 +50,5 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iftikhar-shams-niloy&row=1&column=5&margin-w=15&margin-h=15&theme=onedark" alt="iftikhar-shams-niloy" /></a> <br>
   <img src="https://github-readme-stats.vercel.app/api?username=iftikhar-shams-niloy&show_icons=true&locale=en&card_width=350&theme=dracula"height="150"alt="iftikhar-shams-niloy"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Iftikhar-Shams-Niloy&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=dracula"  height="150" alt="languages graph"/><br>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Iftikhar-Shams-Niloy&theme=dracula&border_radius=5.5&date_format=j%20M%5B%20Y%5D&card_width=615&card_height=150" alt="GitHub Streak" /></a>
 </section>
